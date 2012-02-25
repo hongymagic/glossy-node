@@ -1,0 +1,8 @@
+#container { padding-top: 50px; }
+
+.thumbnails a { position: relative; display: block; height: 210px; pacity: 0.7; text-decoration: none; -vendor-transition-duration: 0.3s; -vendor-transition-property: all; }
+.thumbnails a.unavailable { opacity: 0.35; }
+.thumbnails a h3 { position: absolute; top: 0; }
+.thumbnails a p { position: absolute; bottom: 10px; left: 0; padding: 4px; width: 100%; box-sizing: border-box; opacity: 0.6; font-weight: 300; background-color: #333; }
+.thumbnails a:hover { opacity: 1; }
+.thumbnails a:hover p { opacity: 1; color: #fff; }

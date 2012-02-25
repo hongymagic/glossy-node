@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+	<head>
+		<title>$ echo</title>
+	</head>
+	<body>
+		<script>
+			var echo = "{{echo}}";
+
+			try {
+				echo = JSON.parse(echo);
+			} catch (e) {
+			}
+
+			console.log(echo);
+		</script>
+	</body>
+</html>
