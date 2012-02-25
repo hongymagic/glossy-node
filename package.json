@@ -1,11 +1,11 @@
 {
-	"author": "David G. Hong <davidhong.code+brainfit@gmail.com> (@hongymagic)",
+	"author": "David G. Hong <davidhong.code+glossy@gmail.com> (@hongymagic)",
 	"name": "brainfit",
-	"description": "ABC Commercial Brainfit Prototype Website",
+	"description": "Glossy – A simple glossary application in Node.js",
 	"version": "1.0.0",
-	"homepage": "http://brainfit.no.de",
+	"homepage": "http://glossy-node.herokuapp.com",
 	"repository": {
-		"url": "git@bitbucket.org:hongymagic/brainfit.git"
+		"url": "git@github.com:hongymagic/glossy-node.git"
 	},
 	"engines": {
 		"node": "0.6.x",
